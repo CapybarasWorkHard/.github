@@ -1,4 +1,4 @@
-# Capybara work hard LCD
+# Capybara work hard LTD
 
 Leading IT company developing various software
 
